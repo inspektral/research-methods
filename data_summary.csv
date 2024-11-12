@@ -1,0 +1,6 @@
+Model Name,Translation,Proving,Understanding
+Claude 3.5 Sonnet,100,60,80
+GPT-4 Mini,100,20,40
+Mistral 2 Large,80,0,60
+Gemini 1.5 Flash,80,0,60
+Claude 3.5 Haiku,100,0,100

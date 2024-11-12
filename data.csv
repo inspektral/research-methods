@@ -1,0 +1,7 @@
+theorem index,,gpt4o mini,,,"claude sonnet 3,5",,,"claude haiku 3,5",,,mistral 2 large,,,Gemini 1.5 flash,,
+index,statement,transaltion,proving,understanding,translation,proofing,understanding,translation,proofing,understanding,translation,proofing,understanding,translation,proofing,understanding
+9897,"Given that $2^{10} = 1024$, prove that $2^{20} = 1024^2$.",TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+9673,"Let $ a, b,c >0$ . Prove that $a^2+b^2+c^2\geq ab+bc+ca.$",TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+12806,Prove that $2(\sin^2x+\cos^2x)\ge(\sin x+\cos x)^2$.,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE
+2115,"Let $r,p$ be real numbers. Prove that if $2r + p, r^2 + 2rp, r^2p$ are rational, then $r$ and $p$ are rational.",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+2977,Prove that $ b^x$ is strictly increasing for $ b > 1$.,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
